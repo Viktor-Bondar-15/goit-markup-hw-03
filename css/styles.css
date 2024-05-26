@@ -243,7 +243,7 @@ padding: 120px 0;
 
 .portfolio-img {
     background: #fff;
-    width: calc((100% - 72px) / 3);
+    width: calc((100% - 48px) / 3);
 }
 
 .main-foto {
@@ -261,6 +261,8 @@ padding: 120px 0;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-align: center;
+        margin-bottom: 8px;
 }
 
 .section-p-name {
@@ -269,6 +271,7 @@ padding: 120px 0;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        text-align: center;
 }
 
 
@@ -303,6 +306,7 @@ text-transform: capitalize;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .portfolio-prof-p {
