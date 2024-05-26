@@ -100,12 +100,7 @@ p{
 .header-address-list{
     display: flex;
     gap: 40px;
-
 }
-
-
-
-
 
 .header-address-link{
     font-weight: 400;
@@ -244,13 +239,11 @@ padding: 120px 0;
         text-align: center;
         color: #2e2f42;
         margin-bottom: 72px;
-
 }
-
 
 .portfolio-img {
     background: #fff;
-    width: calc((100% - 125px) / 3);
+    width: calc((100% - 72px) / 3);
 }
 
 .main-foto {
@@ -258,6 +251,9 @@ padding: 120px 0;
     width: calc((100% - 74px) / 4);
 }
 
+.team-box{
+    padding: 32px 0;
+}
 .section-h-name {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -294,6 +290,12 @@ text-transform: capitalize;
         gap: 48px 24px;
 }
 
+.portfolio-box{
+    padding: 32px 16px;
+        border: 1px solid #e7e9fc;
+        border-top: none;
+        width: 360px;
+}
 .portfolio-prof {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
